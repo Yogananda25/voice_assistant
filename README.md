@@ -1,5 +1,7 @@
 #voice assistant
 
+this code run on local host streamlit 
+
 open terminal and run the below code 
 
 streamlit run <filename.py>
