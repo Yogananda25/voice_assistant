@@ -18,4 +18,4 @@ Reminders: Allows users to set reminders and alerts them when it's time.
 
 Date and Time: Provides current date and time on request.
 
-Calculations: Handles basic arithmetic calculations like addition, subtraction, multiplication, and division.
+Calculations: Handles basic arithmetic calculation
